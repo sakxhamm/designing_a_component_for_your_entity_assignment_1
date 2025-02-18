@@ -5,8 +5,8 @@ import './Usercard.css';
 const Usercard = () => {
   // Static user details
   const profilePhoto = 'https://randomuser.me/api/portraits/men/75.jpg';
-  const name = 'Parv jhanawar';
-  const email = 'parv.gpt@gmail.com';
+  const name = 'saksham gupta';
+  const email = 'saksham.gpt@gmail.com';
   const phone = '+91 7906900515';
   const address = 'haldighati, jaipur ';
 
